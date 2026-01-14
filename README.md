@@ -1,16 +1,24 @@
-## Hi there 👋
+# Martín Vergara Q. 👨‍💻
 
-<!--
-**MartinVergaraQ/MartinVergaraQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Jr (Angular + Django/DRF)**  
+Frontend-oriented, pero no le hago asco al backend (aunque a veces sea pajero).
 
-Here are some ideas to get you started:
+## 🚀 En qué he estado trabajando
+- Implementación de **flujo de cancelación de servicios**: solicitar/aprobar/rechazar, validaciones, auditoría e historial.
+- Desarrollo de **alertas de presupuesto por correo** (80/90/100%) con control anti-spam y registro de estado en base de datos.
+- Construcción de **módulos administrativos**: CRUD, filtros, paginación, buscador, exportación a Excel y mejoras UX/UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Frontend:** Angular, React, TypeScript, HTML, SCSS, Tailwind CSS, Bootstrap  
+- **Backend:** Django, DRF, Node.js, APIs REST  
+- **Base de datos:** MariaDB/MySQL, MongoDB, Supabase (PostgreSQL)
+- **Herramientas:** Git, GitHub, Git Flow, Postman, VS Code, Miro
+
+## 🔗 Links
+- **LinkedIn:** [[Tu LinkedIn aquí](https://www.linkedin.com/in/TU-USUARIO/)](https://www.linkedin.com/in/martin-ignacio-vergara-quiroz-b8042a251/)
+- **Repos destacados:**
+  - [Chatbot WhatsApp - Portal DUOC](https://github.com/MartinVergaraQ/chatbot-whatsapp-portal-duoc)
+  - [App Gestión Escolar - Escuela de Lenguaje](https://github.com/MartinVergaraQ/app-gestion-escolar-lenguaje)
+
+## 📬 Contacto
+- Email: martinvergara452@gmail.com
