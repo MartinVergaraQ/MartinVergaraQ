@@ -1,7 +1,6 @@
 # Martín Vergara Q. 👨‍💻
 
 **Full Stack Jr (Angular + Django/DRF)**  
-Frontend-oriented, pero no le hago asco al backend (aunque a veces sea pajero).
 
 ## 🚀 En qué he estado trabajando
 - Implementación de **flujo de cancelación de servicios**: solicitar/aprobar/rechazar, validaciones, auditoría e historial.
