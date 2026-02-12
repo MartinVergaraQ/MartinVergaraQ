@@ -14,7 +14,7 @@
 - **Herramientas:** Git, GitHub, Git Flow, Postman, VS Code, Miro
 
 ## 🔗 Links
-- **LinkedIn:** (https://www.linkedin.com/in/TU-USUARIO/)](https://www.linkedin.com/in/martin-ignacio-vergara-quiroz-b8042a251/)
+- **LinkedIn:** https://www.linkedin.com/in/martin-ignacio-vergara-quiroz-b8042a251/
 - **Repos destacados:**
   - [Chatbot WhatsApp - Portal DUOC](https://github.com/MartinVergaraQ/chatbot-whatsapp-portal-duoc)
   - [App Gestión Escolar - Escuela de Lenguaje](https://github.com/MartinVergaraQ/app-gestion-escolar-lenguaje)
