@@ -8,10 +8,10 @@
 - Construcción de **módulos administrativos**: CRUD, filtros, paginación, buscador, exportación a Excel y mejoras UX/UI.
 
 ## 🧰 Tech Stack
-- **Frontend:** Angular, React, TypeScript, HTML, SCSS, Tailwind CSS, Bootstrap  
-- **Backend:** Django, DRF, Node.js, APIs REST  
-- **Base de datos:** MariaDB/MySQL, MongoDB, Supabase (PostgreSQL)
-- **Herramientas:** Git, GitHub, Git Flow, Postman, VS Code, Miro
+- **Frontend:** Angular, React, TypeScript, HTML, SCSS, Tailwind CSS, Bootstrap, Material UI (MUI)
+- **Backend:** Django, DRF, Node.js, REST, JWT  
+- **Base de datos:** MySQL/MariaDB, MongoDB, PostgreSQL (Docker)
+- **Herramientas:** Git/GitHub, Docker, Postman, Bruno, VS Code, Miro
 
 ## 🔗 Links
 - **LinkedIn:** https://www.linkedin.com/in/martin-ignacio-vergara-quiroz-b8042a251/
